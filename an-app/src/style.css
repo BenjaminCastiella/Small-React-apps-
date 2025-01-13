@@ -1,0 +1,19 @@
+.like-btn{
+    background: #1E3D58;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 20px;
+    width: 100px;
+    height: 32px;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+.like-btn span{
+    border-left: solid 1px #969696;
+    padding-left: 9px;
+}
